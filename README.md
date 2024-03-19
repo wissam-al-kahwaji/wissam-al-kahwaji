@@ -11,7 +11,8 @@ in the world of technology.
 - **Database Management:** PostgreSQL
 - **DevOps:** Docker, Git, Bash, Linux, Jenkins, Github Action
 - **Cloud Computing:** AWS
-- **Additional Tools:** NGINX, Problem-solving, ERD, Stripe
+- **Web Server:** NGINX
+- **Additional Tools:** Problem-solving, ERD, Stripe
 - **Soft Skills:** My skills enable me to confidently and calmly tackle challenges, and I can handle difficult situations with ease.<br>
 Additionally, I excel in organization and creating an encouraging and collaborative work environment.<br>
 I caneffectively interact with others and understand their ideas well.<br>
