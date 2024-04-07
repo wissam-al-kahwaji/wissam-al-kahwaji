@@ -7,7 +7,7 @@ in the world of technology.
 ## Skills
 - **Programming Languages:** Python, Javascript, HTML, CSS, SQL
 - **Backend**: Django, Rest Framework, Redis, Celery
-- **API Testing:** Rest Framework Testing, Postman
+- **API Testing:** Unittest, Pytest, Postman
 - **Database Management:** PostgreSQL
 - **DevOps:** Docker, Git, Bash, Linux, Jenkins, Github Action
 - **Cloud Computing:** AWS
