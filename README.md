@@ -1,12 +1,13 @@
 ## About Me
-### Hello 👋 I'm Wissam Al-Kahwaji a dedicated Backend Developer 👨‍💻
+### Hello 👋 I'm Wissam Al-Kahwaji a Software Engineer 👨‍💻
 I believe that big challenges are opportunities for growth and development. The larger and more complex the
 projects, the greater the opportunity for innovation and the creation of exceptional systems that make a difference
 in the world of technology.
 
 ## Skills
 - **Programming Languages:** Python, Javascript, HTML, CSS, SQL
-- **Backend**: Django, Rest Framework, Redis, Celery
+- **Backend:** Django, Rest Framework, Redis, Celery
+- **Frontend:** Reactjs, Nextjs
 - **API Testing:** Unittest, Pytest, Postman
 - **Database Management:** PostgreSQL
 - **DevOps:** Docker, Git, Bash, Linux, Jenkins, Github Action
@@ -18,7 +19,7 @@ Additionally, I excel in organization and creating an encouraging and collaborat
 I caneffectively interact with others and understand their ideas well.<br>
 
 
-![Languages and Tools](https://skillicons.dev/icons?i=django,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,stackoverflow,markdown&perline=9)
+![Languages and Tools](https://skillicons.dev/icons?i=django,react,nextjs,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,stackoverflow,markdown&perline=10)
 
 ## Sponsor
 
