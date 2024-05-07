@@ -7,7 +7,7 @@ in the world of technology.
 ## Skills
 - **Programming Languages:** Python, Javascript, HTML, CSS, SQL
 - **Backend:** Django, Rest Framework, Redis, Celery
-- **Frontend:** Reactjs, Nextjs
+- **Frontend:** Reactjs, Nextjs, Sass
 - **API Testing:** Unittest, Pytest, Postman
 - **Database Management:** PostgreSQL
 - **DevOps:** Docker, Git, Bash, Linux, Jenkins, Github Action
@@ -19,7 +19,7 @@ Additionally, I excel in organization and creating an encouraging and collaborat
 I caneffectively interact with others and understand their ideas well.<br>
 
 
-![Languages and Tools](https://skillicons.dev/icons?i=django,react,nextjs,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,stackoverflow,markdown&perline=10)
+![Languages and Tools](https://skillicons.dev/icons?i=django,react,nextjs,sass,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,markdown&perline=10)
 
 ## Sponsor
 
