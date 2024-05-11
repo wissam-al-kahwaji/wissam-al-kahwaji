@@ -1,6 +1,5 @@
 ## About Me
 ### Hello 👋 I'm Wissam Al-Kahwaji a Software Engineer 👨‍💻
-I'm someone who's into Backend, and I enjoy exploring new things.<br>
 I believe that big challenges are opportunities for growth and development. The larger and more complex the projects, the greater the chance for innovation and creating exceptional systems that make a difference in the world of technology.<br>
 I also believe that appreciating the abilities of your team and those who contribute with you adds value to you and all the people you work with, making a difference in the development phase.
 
