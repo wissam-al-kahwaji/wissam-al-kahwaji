@@ -17,7 +17,6 @@ I also believe that appreciating the abilities of your team and those who contri
 - **Soft Skills:** My skills enable me to confidently and calmly tackle challenges, and I can handle difficult situations with ease.<br>
 Additionally, I excel in organization and creating an encouraging and collaborative work environment.<br>
 I caneffectively interact with others and understand their ideas well.<br>
-- **Previous skills:** Photoshop, Illustrator, InDesign, and video editing, I previously worked as a graphic designer for 4 years.
 
 ![Languages and Tools](https://skillicons.dev/icons?i=django,react,nextjs,tailwind,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,markdown&perline=10)
 
