@@ -15,9 +15,6 @@ I also believe that appreciating the abilities of your team and those who contri
 - **DevOps:** Docker, Git, Bash, Linux, Jenkins, Github Action
 - **Cloud Computing:** AWS
 - **Web Server:** NGINX
-- **Soft Skills:** My skills enable me to confidently and calmly tackle challenges, and I can handle difficult situations with ease.<br>
-Additionally, I excel in organization and creating an encouraging and collaborative work environment.<br>
-I caneffectively interact with others and understand their ideas well.<br>
 
 ![Languages and Tools](https://skillicons.dev/icons?i=django,react,nextjs,tailwind,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,markdown&perline=10)
 
