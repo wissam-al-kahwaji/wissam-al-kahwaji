@@ -18,15 +18,4 @@ I also believe that appreciating the abilities of your team and those who contri
 
 ![Languages and Tools](https://skillicons.dev/icons?i=django,react,nextjs,tailwind,python,html,css,js,postgresql,docker,jenkins,githubactions,linux,bash,aws,nginx,git,postman,redis,markdown&perline=10)
 
-## Sponsor
-
-<div> 
-  <a href="https://www.patreon.com/wissamalkahwaij">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="100">
-  </a>
-  <br>
-  <a href="https://www.paypal.me/wissamkahwaji">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" width="100">
-</div>
-  </a>
 
