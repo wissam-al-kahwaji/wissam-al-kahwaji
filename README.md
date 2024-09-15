@@ -1,7 +1,7 @@
 ## About Me
 <img src="https://komarev.com/ghpvc/?username=wissam-al-kahwaji&label=Profile%20views&color=29c8ff&style=for-the-badge" />
 
-### Hello 👋 I'm Wissam Al-Kahwaji a Software Engineer 👨‍💻
+### Hello 👋 I'm Wissam Al-Kahwaji a Software Developer 👨‍💻
 I believe that big challenges are opportunities for growth and development. The larger and more complex the projects, the greater the chance for innovation and creating exceptional systems that make a difference in the world of technology.<br>
 I also believe that appreciating the abilities of your team and those who contribute with you adds value to you and all the people you work with, making a difference in the development phase.
 
